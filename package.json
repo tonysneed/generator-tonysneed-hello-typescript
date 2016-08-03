@@ -17,6 +17,13 @@
     "typescript",
     "visual-studio-code"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tonysneed/generator-tonysneed-hello-typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tonysneed/generator-tonysneed-hello-typescript/issues"
+  },
   "dependencies": {
     "chalk": "^1.0.0",
     "lodash": "^4.14.1",
@@ -44,7 +51,6 @@
       "mocha": true
     }
   },
-  "repository": "tonysneed/generator-tonysneed-hello-typescript",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"

@@ -1,4 +1,4 @@
-# generator-tonysneed-hello-typescript [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-tonysneed-hello-typescript
 > Yeoman generator for a plain vanilla TypeScript project
 
 ## Installation
