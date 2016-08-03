@@ -1,6 +1,6 @@
 {
   "name": "generator-tonysneed-hello-typescript",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Yeoman generator for a plain vanilla TypeScript project",
   "homepage": "https://github.com/tonysneed/generator-tonysneed-hello-typescript#readme",
   "author": {
