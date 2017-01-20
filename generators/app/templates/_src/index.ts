@@ -1,5 +1,3 @@
-/// <reference path="../node_modules/@types/lodash/index.d.ts" />
-
 import * as _ from "lodash";
 
 function hello(name: string): string {
